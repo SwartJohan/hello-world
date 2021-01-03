@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-  <Transactions>
-    <Transaction>2021/01/02 19:06:18.220,=X:\Develop\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/01/02 19:07:55.638,X:\Develop\Projects\GitHub\hello-world\code\Unit1.dfm=X:\Develop\Projects\Unit1.dfm</Transaction>
-    <Transaction>2021/01/02 19:07:55.638,X:\Develop\Projects\GitHub\hello-world\code\Unit1.pas=X:\Develop\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/01/02 19:07:58.905,X:\Develop\Projects\GitHub\hello-world\code\Project1.dproj=X:\Develop\Projects\Project1.dproj</Transaction>
-  </Transactions>
-</BorlandProject>
